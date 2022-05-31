@@ -73,3 +73,16 @@ The images below are sample output of the dataframes , note the dataframe a larg
 The image belows shows a sample of the dataframe after applying PCA steps have been completed.
 
 ![After pca](/Resources/Del2_dataframe.png)
+
+## Deliverable 3 : Clustering Cryptocurrencies Using K-means
+
+### Summary Processing
+
+- Using the K-means algorithm cluster the cryptocurrencies using the PCA data.
+- An elbow curve is created using hvPlot to find the best value for 
+- Predictions are made on the K clusters of the cryptocurrencies’ data
+- Create a datframe with the same index as the crypto_df DataFrame and has the following columns: Algorithm, ProofType, TotalCoinsMined, TotalCoinSupply, PC 1, PC 2, PC 3, CoinName, and Class
+
+### Results
+
+## Deliverable 4 : Visualizing Cryptocurrencies Results

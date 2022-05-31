@@ -42,5 +42,5 @@ During the preporcessng we will peform the following :-
 
 The images below are sample output of the dataframes , note the dataframe a larger than displayed.
 
-
+![Summary retiring](/Resources/Del1_relevant_values.png)
 

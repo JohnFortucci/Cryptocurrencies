@@ -100,3 +100,35 @@ The image below shows a sample of the dataframe created.
 ![Cluster DF](/Resources/Del3_dataframe.png)
 
 ## Deliverable 4 : Visualizing Cryptocurrencies Results
+
+### Summary Processing
+
+The following vizualizations will be created in this deliverable.
+
+- The clusters are plotted using a 3D scatter plot, and each data point shows the CoinName and Algorithm on hover
+- A table with tradable cryptocurrencies is created using the hvplot.table() function
+- The total number of tradable cryptocurrencies is printed
+- A DataFrame is created that contains the clustered_df DataFrame index, the scaled data, and the CoinName and Class columns
+- A hvplot scatter plot is created where the X-axis is "TotalCoinsMined", the Y-axis is "TotalCoinSupply", the data is ordered by "Class", and it shows the CoinName when you hover over the data point
+
+### Results
+
+The image below shows the 3-D-Scatter with PCA data and the clusters
+
+![3D scatter plot](/Resources/Del4_image_1.png)
+
+The image below shows tradable cryptocurrencies ( created using the hvplot.table() )
+
+![Tradable](/Resources/Del4_image_2.png)
+
+The image below shows total number of tradable cryptocurrencies 
+
+![Total](/Resources/Del4_image_3.png)
+
+The image below the dataFrame containing the clustered_df DataFrame index, the scaled data, and the CoinName and Class columns
+
+![Cluster](/Resources/Del4_image_4.png)
+
+The image below shows the 3-D-Scatter hvplot scatter plot is created where the X-axis is "TotalCoinsMined", the Y-axis is "TotalCoinSupply", the data is ordered by "Class", and it shows the CoinName when you hover over the data point
+
+![Cluster](/Resources/Del4_image_5.png)

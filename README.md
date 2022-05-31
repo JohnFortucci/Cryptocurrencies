@@ -42,5 +42,18 @@ During the preporcessng we will peform the following :-
 
 The images below are sample output of the dataframes , note the dataframe a larger than displayed.
 
-![Summary retiring](/Resources/Del1_relevant_values.png)
+The image belows shows a sample of the dataframe after all the preprocessing steps have been completed.
 
+![After prepocessing](/Resources/Del1_relevant_values.png)
+
+The image belows shows a sample of the dataframe containing cryptocurrency names.
+
+![cryptocurrency names](/Resources/Del1_coinnames.png)
+
+The image belows shows a sample of the dataframe containing variable for the test features.
+
+![test features](/Resources/Del1_testfeatures.png)
+
+The image belows shows a sample of the output using the StandardScaler function.
+
+![StandardScaler function](/Resources/Del1_standardScaler.png)

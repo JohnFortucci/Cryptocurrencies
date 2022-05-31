@@ -57,3 +57,19 @@ The image belows shows a sample of the dataframe containing variable for the tes
 The image belows shows a sample of the output using the StandardScaler function.
 
 ![StandardScaler function](/Resources/Del1_standardScaler.png)
+
+
+## Deliverable 2 : Reducing Data Dimensions Using PCA
+
+### Summary Processing
+
+- Use the PCA algorithm reduces the dimensions of the X DataFrame down to three principal components
+- A DataFrame is created and has the following three columns, PC 1, PC 2, and PC 3, and has the index from the crypto_df DataFrame
+
+### Results
+
+The images below are sample output of the dataframes , note the dataframe a larger than displayed.
+
+The image belows shows a sample of the dataframe after applying PCA steps have been completed.
+
+![After pca](/Resources/Del2_dataframe.png)

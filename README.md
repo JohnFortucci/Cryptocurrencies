@@ -1,6 +1,6 @@
 # Introduction
 
-We have been assked to create a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a calssification system for this new investment.
+We have been asked to create a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a calssification system for this new investment.
 
 The purpose of this report and classification is Accountability Accounting a prominent investment bank is interested in offering a new cryptocurrency investment portfolio for its customers , and would like to use this report and classification to better understand the current market place.
 

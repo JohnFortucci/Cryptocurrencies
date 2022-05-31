@@ -85,4 +85,10 @@ The image belows shows a sample of the dataframe after applying PCA steps have b
 
 ### Results
 
+The image below shows the elbow curve created.
+
+![Elbow Curve](/Resources/Del3_Elbow_Curve.png)
+
+From the above we can determine that 4 clusters is the initial point.
+
 ## Deliverable 4 : Visualizing Cryptocurrencies Results

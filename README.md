@@ -91,4 +91,12 @@ The image below shows the elbow curve created.
 
 From the above we can determine that 4 clusters is the initial point.
 
+The image below show the output of an analysis using K = 4 eithin the K-means alogrithm.
+
+![K Means](/Resources/Del_3_K_means.png)
+
+The image below shows a sample of the dataframe created.
+
+![Cluster DF](/Resources/Del3_dataframe.png)
+
 ## Deliverable 4 : Visualizing Cryptocurrencies Results

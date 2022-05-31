@@ -19,7 +19,14 @@ There are 4 main phases on this analysis
 
 ## Deliverable 1 : Preprocessing the Data for PCA
 
-Read in the data set and use pandas to process the dataset to format and filter accordingly.
+### Summary Processing
+
+Read in the data set and use pandas to process the dataset to format and filter accordingly, to :- 
+
+- Create a dataframe containing relevant values
+- Create a dataframe containing cryptocurrency names
+- Create a dataframe containing variable for the test features
+- The features dataframe has been standardized using the StandardScaler function
 
 During the preporcessng we will peform the following :- 
 
@@ -30,4 +37,10 @@ During the preporcessng we will peform the following :-
 5.	Filter the crypto_df DataFrame so it only has rows where coins have been mined.
 6.	Create a new DataFrame that holds only the cryptocurrency names, and use the crypto_df DataFrame index as the index for this new DataFrame.
 7.	Remove the CoinName column from the crypto_df DataFrame since it's not going to be used on the clustering algorithm.
+
+### Results
+
+The images below are sample output of the dataframes , note the dataframe a larger than displayed.
+
+
 
